@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/gus-arevalo/dio-lab-natty-or-not/raw/main/arquivos/A.Forca.da.Mente.Artificial.Criatividade.Inovacao.e.Futuro.pdf)
+[LINK PARA DOWNLOAD DO E-BOOK AQUI](https://github.com/gus-arevalo/dio-lab-natty-or-not/raw/main/arquivos/A.Forca.da.Mente.Artificial.Criatividade.Inovacao.e.Futuro.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência prática de como utilizar IAs generativas para a produção de conhecimento.
