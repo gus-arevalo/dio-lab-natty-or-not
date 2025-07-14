@@ -17,4 +17,4 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência construtiva sobre o impacto e as potencialidades dessa tecnologia no futuro da sociedade humana.
+Criar este e-book foi uma experiência prática de como utilizar IAs generativas para a produção de conhecimento.
